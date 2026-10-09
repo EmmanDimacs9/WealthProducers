@@ -1,0 +1,3 @@
+# Uploaded documents are private (bank info, contracts). Block all web access.
+Require all denied
+php_flag engine off
